@@ -21,3 +21,14 @@
 <a href="https://www.linkedin.com/in/joao-uliana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## GitHub Stats ⚡
+<div>
+  <a href="https://https://github.com/JoaoUliana027">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoUliana027&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoUliana027&layout=compact&langs_count=7&theme=radical"/> 
+  </center>
+</div>
