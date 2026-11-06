@@ -12,7 +12,7 @@
 - 🔭 Atuando como **Desenvolvedor Full Stack**.
 - 🎮 Entusiasta de **Game Development** criando protótipos e mecânicas de jogos.
 - 🚀 Desenvolvendo aplicações web completas (do front ao back-end) e experiências interativas.
-- 💬 Vamos conversar sobre: **HTML, CSS, JavaScript, TypeScript, React, Python, Lua e MySQL**.
+- 💬 Vamos conversar sobre: **Lua, HTML, C#, CSS, Python e JavaScript**.
 
 ---
 
@@ -27,14 +27,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
-**Back-end & Banco de Dados**
+**Back-end & Game Dev**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-**Game Dev & Scripts**
-<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
 </p>
 
@@ -51,9 +47,9 @@
 
 | Projeto | Descrição | Tecnologias | Repo |
 | :--- | :--- | :--- | :---: |
-| **Aplicação Full Stack** | Sistema web completo integrando interface e banco de dados. | `React` `JS` `SQL` | [Acessar 🔗](#) |
-| **Projeto Game Dev** | Protótipo de jogo e testes de mecânicas interativas. | `Lua` `Game Logic` | [Acessar 🔗](#) |
-| **Automações & Scripts** | Algoritmos e soluções em Python / JS. | `Python` `JS` | [Acessar 🔗](#) |
+| **Aplicação Web** | Sistema web responsivo e interativo. | `React` `JS` `CSS` | [Acessar 🔗](https://github.com/JoaoUliana027?tab=repositories) |
+| **Projeto Game Dev** | Protótipo de jogo e testes de mecânicas interativas. | `Lua` `C#` | [Acessar 🔗](https://github.com/JoaoUliana027?tab=repositories) |
+| **Automações & Scripts** | Algoritmos e soluções em Python / JS. | `Python` `JS` | [Acessar 🔗](https://github.com/JoaoUliana027?tab=repositories) |
 
 ---
 
