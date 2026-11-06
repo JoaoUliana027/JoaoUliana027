@@ -43,15 +43,7 @@
 
 ---
 
-### 📌 Projetos em Destaque
 
-| Projeto | Descrição | Tecnologias | Repo |
-| :--- | :--- | :--- | :---: |
-| **Aplicação Web** | Sistema web responsivo e interativo. | `React` `JS` `CSS` | [Acessar 🔗](https://github.com/JoaoUliana027?tab=repositories) |
-| **Projeto Game Dev** | Protótipo de jogo e testes de mecânicas interativas. | `Lua` `C#` | [Acessar 🔗](https://github.com/JoaoUliana027?tab=repositories) |
-| **Automações & Scripts** | Algoritmos e soluções em Python / JS. | `Python` `JS` | [Acessar 🔗](https://github.com/JoaoUliana027?tab=repositories) |
-
----
 
 ### 📬 Conecte-se Comigo
 
